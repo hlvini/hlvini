@@ -11,4 +11,4 @@ Interested in the field since the _`Cyberchase`_ days.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bash,mysql,linux,git&perline=10)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlvini&show_icons=true&theme=transparent)
+
