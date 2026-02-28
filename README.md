@@ -1,7 +1,7 @@
 ### What’s Up ~ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="26" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg" 
-     width="40%" 
+     width="20%" 
      align="right" />
 
 > I'm Hallen, a backend developer, cybersecurity and automation enthusiast. 
