@@ -1,7 +1,7 @@
 ### What’s Up ~ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="26" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg" 
-     width="25%" 
+     width="20%" 
      align="right" />
 
 > I'm Hallen, a backend developer, cybersecurity and automation enthusiast. 
@@ -11,3 +11,4 @@ Interested in the field since the _`Cyberchase`_ days.
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bash,mysql,linux,git&perline=10)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlvini&show_icons=true&theme=transparent)
