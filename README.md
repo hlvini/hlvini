@@ -5,7 +5,7 @@
      align="right" />
 
 > I'm Hallen, a backend developer, cybersecurity analyst and automation enthusiast. 
-Interested in the field since the youth.
+Interested in the field since youth.
 
 ### Skillset <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" width="26" />
 
