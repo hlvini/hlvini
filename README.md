@@ -1,7 +1,7 @@
 ### What’s Up ~ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="26" />
 
 > I'm Hallen, a backend developer, cybersecurity analyst and automation enthusiast. 
-Interested in the field since youth.
+Interested in the field since young.
 
 ### Skillset <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4aa/512.gif" width="26" />
 
